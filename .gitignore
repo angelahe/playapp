@@ -1,0 +1,14 @@
+# React application
+node_modules/*
+package-lock.json
+coverage/
+
+# editor files
+.idea/*
+
+dist/
+build/
+*.egg-info/
+
+# Mac
+**/.DS_Store
